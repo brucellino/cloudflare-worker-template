@@ -19,4 +19,4 @@ jobs:
         with:
           node-version: 19
       - name: Install
-        run: npm
+        run: npm install
