@@ -13,7 +13,6 @@ permissions:
   checks: read
   contents: write
   deployments: read
-  id-token: read
   issues: write
   discussions: read
   packages: write
