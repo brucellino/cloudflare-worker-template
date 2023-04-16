@@ -1,0 +1,6 @@
+name = "close-task"
+main = "src/index.ts"
+compatibility_date = "2023-04-16"
+
+[triggers]
+crons = [ "1 * * * *" ]
