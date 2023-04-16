@@ -1,9 +1,12 @@
 {
-  "name": "close-task",
+  "name": "scheduled-worker-template",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/brucellino/cloudflare-worker-template.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230404.0",
