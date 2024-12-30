@@ -9,7 +9,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240320.1",
+    "@cloudflare/workers-types": "^4.20241224.0",
     "typescript": "^5.4.5",
     "wrangler": "3.95.0",
     "@semantic-release/git": "~10.0.1"
